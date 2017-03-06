@@ -1,0 +1,8 @@
+Hilo: 3. Valor producido numero: 89383. Cantidad: 1. No es primoHilo: 4. Valor producido numero: 30886. Cantidad: 2. No es primo.
+Hilo: 4. Valor producido numero: 30886. Cantidad: 2. No es primo.
+Hilo: 3. Valor producido numero: 92777. Cantidad: 3. No es primo.
+.
+Hilo: 4. Valor producido numero: 47793. Cantidad: 5. No es primoHilo: 4. Valor producido numero: 38335. Cantidad: 6. No es primo.
+Hilo: 4. Valor producido numero: 38335. Cantidad: 6. No es primo.
+Hilo: 4. Valor producido numero: 85386. Cantidad: 7. No es primoHilo: 3. Valor producido numero: 60492. Cantidad: 8. No es primo.
+Hilo: 3. Valor producido numero: 60492. Cantidad: 8. No es primo.
